@@ -1,6 +1,6 @@
 # Build Up The Base: Bug Tracker
 
-This repo is for reporting bugs for the Android incremental [Build Up The Base](https://i.imgur.com/94OKPVG.png?1) which can be played [here].
+This repo is for reporting bugs for the Android incremental [Build Up The Base](https://i.imgur.com/94OKPVG.png?1) which can be played [here](https://play.google.com/store/apps/details?id=com.tankorsmash.buildupthebase).
 
 ### Reporting
 
